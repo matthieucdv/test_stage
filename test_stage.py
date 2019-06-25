@@ -65,7 +65,7 @@ b = tkinter.Button (f1, text="print")
 b.pack()
 
 #Affichage de la sous-fenêtre
-f1.place(x=250,y=50)
+f1.place(x=25,y=5) ->  A modifier ça non ?? (HAHAAHHAHAAHAH)
 
 def test():
     global bouton
@@ -84,4 +84,5 @@ f2.pack(side = tkinter.LEFT)
 bouton.config(command = test)
 window.mainloop()
 
-michi bichi
+J'ai enleve michi bichi
+et j'ai mis des conflits un peu partout
